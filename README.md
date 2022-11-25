@@ -3,4 +3,4 @@
 Auto Tagging
 
 #　version
-v0.2.0　にしたいPR
+v1.0.0　にしたいPR
